@@ -1,0 +1,22 @@
+[
+    {
+      "text": "Comida para los Misioneros",
+      "imageSrc":"../../assets/comida.png",
+      "altText": "comida"
+    },
+    {
+      "text": "Visitar con los misioneros",
+      "imageSrc": "../../assets/visitar.png",
+      "altText": "visitar"
+    },
+    {
+      "text": "Ride para los Amigos en Ensenanza",
+      "imageSrc":  "../../assets/ride.png",
+      "altText": "ride"
+    },
+    {
+      "text": "Hermanar Amigos en Ensenanza",
+      "imageSrc": "../../assets/hermanar.png",
+      "altText": "hermanar"
+    }
+  ]

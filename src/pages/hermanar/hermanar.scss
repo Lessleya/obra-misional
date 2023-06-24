@@ -1,0 +1,22 @@
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+
+    .secondary-button{
+        background-color: white;
+        color: var(--dark-blue);
+        border: 1px solid var(--dark-blue);
+        border-radius: 5px;
+    }
+    
+}
+button{
+    background-color: var(--dark-blue);
+    color: white;
+    padding: 10px 30px;
+    margin: 10px 40px;   
+    border-radius: 5px;
+}
