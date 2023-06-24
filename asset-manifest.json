@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/obra-misional/static/css/main.be907ea4.css",
+    "main.js": "/obra-misional/static/js/main.d6c923ee.js",
+    "static/js/787.f327d7f6.chunk.js": "/obra-misional/static/js/787.f327d7f6.chunk.js",
+    "static/media/jesus.png": "/obra-misional/static/media/jesus.cd8b816a683fdd6ed189.png",
+    "static/media/jesus_at_the_door 1.png": "/obra-misional/static/media/jesus_at_the_door 1.68889a7aec2870f02a55.png",
+    "static/media/visitar2.png": "/obra-misional/static/media/visitar2.25675fc37fbcccb262ee.png",
+    "static/media/hermanar2.png": "/obra-misional/static/media/hermanar2.4b06ff053adc13569641.png",
+    "static/media/comida2.png": "/obra-misional/static/media/comida2.a112ecf1cfc4e40ef090.png",
+    "static/media/visitar.png": "/obra-misional/static/media/visitar.1cad6dd477af76588b34.png",
+    "static/media/comida.png": "/obra-misional/static/media/comida.4602c6b3cdf74838f5ce.png",
+    "static/media/elderes.png": "/obra-misional/static/media/elderes.920bf8019e1ef000f436.png",
+    "static/media/hermanar.png": "/obra-misional/static/media/hermanar.a54ce8a60354d084a5ac.png",
+    "static/media/hermanas.png": "/obra-misional/static/media/hermanas.540b1e854f3eb564e28c.png",
+    "static/media/ride.png": "/obra-misional/static/media/ride.09868426f13c9c37c5f3.png",
+    "index.html": "/obra-misional/index.html",
+    "main.be907ea4.css.map": "/obra-misional/static/css/main.be907ea4.css.map",
+    "main.d6c923ee.js.map": "/obra-misional/static/js/main.d6c923ee.js.map",
+    "787.f327d7f6.chunk.js.map": "/obra-misional/static/js/787.f327d7f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be907ea4.css",
+    "static/js/main.d6c923ee.js"
+  ]
+}
