@@ -9,7 +9,7 @@ export default function Hermanas() {
     <div >
         <div className='elderes-container'>
         <Header backgroundColor="var(--pink)"></Header>
-        <h2 className='title'>Tu area pertences a: </h2>
+        <h2 className='title'>Tu area pertence a: </h2>
         <img src={Hermanas2} alt="hermanas" />
         <h1 className='elderes-name'>Hermana Medina y Hermana Ayala </h1>
         <p>(801) 833-8834</p>
